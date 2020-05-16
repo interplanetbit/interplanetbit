@@ -53,3 +53,7 @@ InterplanetBit supports cloud deployment. You can deploy exchange system on AWS:
 - Support managed Kafka and Redis.
 
 InterplanetBit does not need high resources. A 4u8g server can support 10K transactions per second. It also supports table sharding and no need to move data. Monitors like DataDog are fully integrated.
+
+### Free Trail
+
+Please [send email](mailto:interplanetbit@gmail.com?subject=Apply%20Free%20Trail) to get free trail.
