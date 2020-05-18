@@ -54,6 +54,12 @@ InterplanetBit supports cloud deployment. You can deploy exchange system on AWS:
 
 InterplanetBit does not need high resources. A 4u8g server can support 10K transactions per second. It also supports table sharding and no need to move data. Monitors like DataDog are fully integrated.
 
+### Price
+
+Spots Trading: 50 BTC
+
+Futures Trading: 100 BTC
+
 ### Free Trail
 
 Please [send email](mailto:interplanetbit@gmail.com?subject=Apply%20Free%20Trail) to get free trail.
