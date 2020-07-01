@@ -64,4 +64,6 @@ Futures Trading: 100 BTC
 
 ### Free Trail
 
-Please [send email](mailto:interplanetbit@gmail.com?subject=Apply%20Free%20Trail) to get free trail.
+Download from [Release](https://github.com/interplanetbit/interplanetbit/releases) and follow the [deployment guide](https://github.com/interplanetbit/interplanetbit/blob/master/DEPLOY.md).
+
+Please feel free to [contact us](mailto:interplanetbit@gmail.com?subject=Apply%20Free%20Trail).
