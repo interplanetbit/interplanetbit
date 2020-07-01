@@ -10,6 +10,8 @@ InterplanetBit is the world's most advantage crypto exchange platform.
 - Supports futures, perpetual and inverse contracts.
 - Wallet System: Support cold/hot wallet and offline signature. Supports BTC/BCH/LTC/ETH/ERC20.
 
+![demo](https://github.com/interplanetbit/interplanetbit/blob/master/exchange.png?raw=true)
+
 ### Extremely high-speed Trading Engine
 
 InterplanetBit designed and developed the world leading high-speed trading engine which supports up to 100K orders per second. This advanced trading engine is a 100% pure in-memory trading ending which is extramely fast and provides synchronzied API for order.
