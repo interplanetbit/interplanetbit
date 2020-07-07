@@ -66,4 +66,12 @@ Futures Trading: 100 BTC
 
 Download from [Release](https://github.com/interplanetbit/interplanetbit/releases) and follow the [deployment guide](https://github.com/interplanetbit/interplanetbit/blob/master/DEPLOY.md).
 
-Please feel free to [contact us](mailto:interplanetbit@gmail.com?subject=Apply%20Free%20Trail).
+### Q & A
+
+Q: Is wallet included?
+
+A: There are cold wallet and hot wallet for BTC/BCH/ETH/ERC20.
+
+Q: Is InterplanetBit open source?
+
+A: Not yet, but soon. You can [request source code access](mailto:interplanetbit@gmail.com?subject=Request%20Source%20Code%20Access).
