@@ -1,6 +1,6 @@
 # InterplanetBit
 
-InterplanetBit is the world's most advantage crypto exchange platform.
+InterplanetBit is the world's most advanced open source crypto exchange platform.
 
 ### Products
 
